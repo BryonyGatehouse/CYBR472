@@ -14,6 +14,7 @@ Students who pass this course should be able to:
     - [Assignment 1 : Search and Surveillence](Assignment%201)
     - [Assignment 2 : Warrants](Assignment%202)
     - [Assignment 3 : Analysing Data](Assignment%203)
+    - [Project : Applying Practises](Project)
 - Labs
     - [Lab 01: Creating a Forensic Image](Labs/01.md)
     - [Lab 02: Live Acquisition](Labs/02.md)
